@@ -22,3 +22,8 @@ Age > 18
      yor are not eligible
 '''
 
+int()
+bool()
+complex()
+str()
+float()
